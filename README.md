@@ -1,6 +1,6 @@
 # GEOG5990M - Final Project
 
-## What are spatial patterns of socio-economic deprivation across Leeds Lower Super Output Areas (LSOAs) and how can these patterns be best utilised to target a support programme?
+## What are spatial patterns of socio-economic deprivation across Lower Super Output Areas (LSOAs) in Leeds and how can these patterns be best utilised to target a support programme?
 
 ### Background
 Socio-economic deprivation exhibits significant spatial patterns across urban areas with pockets of severe deprivation concentrated in certain LSOAs. This project investigates the spatial distribution of deprivation across Leeds LSOAs using 2011 census data. Through multivariate and spatial analysis techniques, it aims to identify the most deprived areas. The findings can inform targeted support programs and evidence-based strategies to address socio-economic inequalities and promote inclusive development in disadvantaged communities.
@@ -29,6 +29,7 @@ To run the code and reproduce the analysis, the following requirements and setup
     fewer, more direct indicators of 'lack' or 'want.' The variables selected are: Unemployed, Households with No Cars, Overcrowded Households, Lone Parent Households, Low      Social Class, Social Rented Housing.
 
 - Software and Dependencies
+  
   The code is written in Python and requires the following software and package dependencies:
     - The script could be run using google collab using this link: https://colab.google/ or install Anaconda using this link: https://www.anaconda.com/download
     - Required packages are:
@@ -56,5 +57,5 @@ Before running the code, the following configuration steps may be necessary:
 
 #### Contact
 
-If you have any questions or concerns, please reach out at: baluwac@gmail.com / gy23c2b@leeds.ac.uk
+For any questions or concerns, please reach out at: baluwac@gmail.com / gy23c2b@leeds.ac.uk
 
